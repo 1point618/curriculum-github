@@ -1,11 +1,9 @@
 title: Outro
 pre-requisites: 
-learning-objective: 
+learning-objective: Review
 screens:
-  - lab:
+  - image-slide:
       title: Congratulations!
-      id: DEMO-outro-art
-      presenter-script:
       introduction: |
         ## You did it!
 
