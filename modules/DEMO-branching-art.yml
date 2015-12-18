@@ -1,11 +1,9 @@
 title: Branching
 pre-requisites: 
-learning-objective: 
+learning-objective: Using Branches
 screens:
-  - lab:
+  - image-slide:
       title: Doing Work on GitHub
-      id: DEMO-branching-art
-      presenter-script:
       introduction: |
         ## Branches
 
