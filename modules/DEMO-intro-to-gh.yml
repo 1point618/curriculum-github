@@ -2,10 +2,8 @@ title: Introduction to GitHub
 pre-requisites: 
 learning-objective: Learn about GitHub and The GitHub Workflow
 screens:
-  - lab:
+  - image-slide:
       title: Using GitHub
-      id: DEMO-intro-art
-      presenter-script:
       introduction: |
         ## What is GitHub?
 

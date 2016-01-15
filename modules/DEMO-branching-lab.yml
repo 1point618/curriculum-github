@@ -1,6 +1,6 @@
 title: Branching
 pre-requisites: 
-learning-objective: 
+learning-objective: Using Branches
 screens:
   - lab:
       title: "Doing Work on GitHub: Lab"
@@ -40,6 +40,7 @@ screens:
               failure-message: "It looks like you haven't committed the change yet."
         - description: |
             Add a commit message and commit the file directly to your branch.
+          id: DEMO-branching-lab-commit
 additional-labs:
 additional-questions:
 resources:

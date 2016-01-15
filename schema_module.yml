@@ -79,10 +79,12 @@ mapping:
               "title":
                 required: true
               "image":
-                required: true
+                required: false
               "presenter-script":
-                required: true
+                required: false
                 type: any
+              "introduction":
+                required: false
         # video schema
           video-slide:
             type: map
@@ -110,7 +112,7 @@ mapping:
               "introduction":
                 required: false
               "presenter-script":
-                required: true
+                required: false
                 type: any
               "steps":
                 required: true
